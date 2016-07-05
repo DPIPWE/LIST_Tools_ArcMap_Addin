@@ -1,6 +1,6 @@
 # DPIPWE_Tools_Addin#
 
-This ESRI Addin toolbar provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania").
+This ESRI Addin toolbar, for ArcMap 10.3 and later, provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
 
 
 [**TheLIST**](http://dpipwe.tas.gov.au/land-tasmania/the-list)  is a contemporary online service that provides access to integrated land and property information service. [LISTMap](http://dpipwe.tas.gov.au/land-tasmania/the-list/listmap) allows users to view and create maps from hundreds of authoritative spatial datasets, and find out more about the information shown on those maps.
@@ -9,7 +9,7 @@ Spatial datasets include natural resources, roads, community facilities, propert
 
 LISTMap is publicly available through your computer's web browser or via your mobile device.
 
-The DPIPWE_Tools_Addin has single click buttons for loading either the Tasmanian colour topographic base-map, or the statewide ortho-photo mosaic from LISTMap into ArcMap. The user can also link to other LIST web services via ArcMap’s catalog. A view of LISTMap with a similar extent as your current ArcMap extent can be loaded into your browser. A version of the LISTMap search service is provided that finds and highlights feature.
+The DPIPWE_Tools_Addin has single click buttons for loading either the Tasmanian colour topographic base-map, or the state-wide ortho-photo mosaic from LISTMap into ArcMap. The user can also link to other LIST web services via ArcMap’s catalogue. A view of LISTMap with a similar extent as your current ArcMap extent can be loaded into your browser. A version of the LISTMap search service is provided that finds and highlights feature.
 
 For more detailed information on how to access LIST web services, see the following [GitHub documentation](https://github.com/DPIPWE/list-spatial-web-service-examples/blob/master/Documentation/LIST_Spatial_Web_Services_User_Guide.pdf)
 
@@ -30,11 +30,9 @@ Detailed installation instructions are given in the **_user guide_**. found in t
 
 
 ## Documentation
-This readme is designed to be a general introduction to the tool. With in the *docs* folder there is;
+This readme is designed to be a general introduction to the tool. Within the *docs* folder there is;
 
-* Help_DPIPWE_tools.pdf , *a copy of the in program help file*
-
-* ReleaseNotes_DPIPWE_tools.pdf , *notes for each release, with details about compatibility, installation, know limitations ...*
+* ReleaseNotes_DPIPWE_tools.pdf , *notes for each release, with details about compatibility, installation, known limitations ...*
 
 * UserGuide_DPIPWE_tools.pdf , *detailed guide of how to use the tools*.
 
