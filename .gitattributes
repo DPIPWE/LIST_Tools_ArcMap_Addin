@@ -1,0 +1,10 @@
+#used to remove files from deployment
+# hopfully works when i create a new release
+.gitattributes export-ignore
+.gitignore export-ignore
+
+*.md export-ignore
+
+#directories
+Images/ export-ignore
+media/ export-ignore
