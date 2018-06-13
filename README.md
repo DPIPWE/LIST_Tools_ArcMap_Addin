@@ -1,4 +1,4 @@
-# DPIPWE_Tools_Addin#
+# DPIPWE_Tools_Addin
 
 This ESRI Addin toolbar, for ArcMap 10.3 and later, provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
 
@@ -42,7 +42,7 @@ The ESRI-Addin presented here was created within the GIS Systems and Development
 
 ## Development
 
-DPIPWE_Tools_Addin was developed for ArcGIS 10.3, for the .Net 4.0 framework under the Windows 7 operating system. The code is written in VB.Net with ArcObjects SDK for .Net from ESRI using Visual Studio 2012.
+DPIPWE_Tools_Addin was developed for ArcGIS 10.3, for the .Net 4.0 framework under the Windows 7 operating system. The code is written in VB.Net with ArcObjects SDK for .Net from ESRI using Visual Studio 2012. As of 13 Jube 2018, as internal check on ArcGIS version has been modified so it should also run with ArcGIS desktop 10.4 through to 10.6. However, its actual behavior under these later ArcGISversions has not been tested. We have no idea what will happen if you try to use it with ArcGIS Pro.
 
 ## Disclaimer
 
