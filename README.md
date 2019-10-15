@@ -1,7 +1,8 @@
 # DPIPWE_Tools_Addin
 
-This ESRI Addin toolbar, for ArcMap 10.3 and later, provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
+This ESRI Addin toolbar, for ArcMap 10.6 and later, provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
 
+**Previous versions of this software are no longer compatible with theLIST  as of 15 Oct 2019.**
 
 [**TheLIST**](http://dpipwe.tas.gov.au/land-tasmania/the-list)  is a contemporary online service that provides access to integrated land and property information service. [LISTMap](http://dpipwe.tas.gov.au/land-tasmania/the-list/listmap) allows users to view and create maps from hundreds of authoritative spatial datasets, and find out more about the information shown on those maps.
 
@@ -38,16 +39,18 @@ This readme is designed to be a general introduction to the tool. Within the *do
 
 ## History
 
-The ESRI-Addin presented here was created within the GIS Systems and Development (Spatial Operations) section of the [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania) Division within the Department Primary Industries Parks Water and Environment [DPIPWE](http://dpipwe.tas.gov.au/). In the course of our support for internal clients we have developed several ArcMap tools. These have been gathered together onto a single ESRI toolbar Addin. After being tested and used within the Spatial Operations section, this Addin was released to DPIPWE in 2015. It was first released to the wider community via this GitHub account in July 2016.
+The ESRI-Addin presented here was created within the GIS Systems and Development (Spatial Operations) section of the [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania) Division within the Department Primary Industries Parks Water and Environment [DPIPWE](http://dpipwe.tas.gov.au/). In the course of our support for internal clients we have developed several ArcMap tools. These have been gathered together onto a single ESRI toolbar Addin. After being tested and used within the Spatial Operations section, this Addin was first  released to DPIPWE in 2015. It was first released to the wider community via this GitHub account in July 2016.
+
+Release 9, now targets ArcMap 10.6 rather than 10.3, and has been updated to match theLIST service changes introduced on 15 Oct 2019. Previous versions are now incompatible with theLIST. 
 
 ## Development
 
-DPIPWE_Tools_Addin was developed for ArcGIS 10.3, for the .Net 4.0 framework under the Windows 7 operating system. The code is written in VB.Net with ArcObjects SDK for .Net from ESRI using Visual Studio 2012. 
-
-As of 13 Jube 2018, as internal check on ArcGIS version has been modified so that DPIPWE_Tools will run for ArcGIS 10.4, 10.5 and 10.6. We have tested the application as running normally under for ArcGIS 10.5 and 10.6 under Windows7 and Windows 10. It does not work with ArGIS Pro. 
+DPIPWE_Tools_Addin targets ESRI ArcMap 10.6, for the .Net 4.5 framework under the Windows 10 operating system. The code is written in VB.Net with ArcObjects SDK for .Net from ESRI using Visual Studio 2017. 
 
 ## Limitations / Known issues
 After the Aug 2019 release the Google Earth view command works with any relase of Google Earth that can be sucessfully installed. This removes the restriction of using an old version of Google Earth.  See the User Notes.
+
+Previous versions of this software are no longer compatible with [**TheLIST**](http://dpipwe.tas.gov.au/land-tasmania/the-list) as of 15 Oct 2019. TheLIST no longer supplies Image Services. The orthophoto and topograpic basemaps were previously consumed as image services.
 
 ## Disclaimer
 
