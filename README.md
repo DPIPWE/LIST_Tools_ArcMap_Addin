@@ -1,7 +1,7 @@
 # DPIPWE_Tools_Addin
 
 ## News
-* **Oct 2019. Previous versions of this software are no longer compatible with theLIST  as of 15 Oct 2019.**
+* **Oct 2019. Release 7 v3.01.01.  Previous versions of this software are no longer compatible with theLIST  as of 15 Oct 2019.**
 
 * **May 2021. Release 9 v03.03.00** is the last release compatible with ArcMap 10.6. It can be run by ArcMap 10.8 but will not run on latter versions of ArcMap
 
