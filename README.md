@@ -25,7 +25,7 @@ Connect to **ArcGIS Online** public data with a single button click.
 
 ## How to get the addin
 
-* Download the [latest release](https://github.com/DPIPWE/DPIPWE_Tools_Addin/releases/latest) (targets ArcMap 10.8) or earlier release.
+* Download the [latest release](https://github.com/DPIPWE/DPIPWE_Tools_Addin/releases/latest) (targets ArcMap 10.8) or the [Last for ArcMap 10.6] (https://github.com/DPIPWE/DPIPWE_Tools_Addin/releases/Last_for_ArcMap_10.6)release.
 * UnZip the archive
 
 * Place the *.esriAddin file in your preferred directory
@@ -46,11 +46,11 @@ This readme is designed to be a general introduction to the tool. Within the *do
 
 The ESRI-Addin presented here was created within the GIS Systems and Development (Spatial Operations) section of the [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania) Division within the Department Primary Industries Parks Water and Environment [DPIPWE](http://dpipwe.tas.gov.au/). In the course of our support for internal clients we have developed several ArcMap tools. These have been gathered together onto a single ESRI toolbar Addin. After being tested and used within the Spatial Operations section, this Addin was first  released to DPIPWE in 2015. It was first released to the wider community via this GitHub account in July 2016.
 
-Release 8 v03.01.02, now targets ArcMap 10.6 rather than 10.3, and has been updated to match theLIST service changes introduced on 15 Oct 2019. Previous versions are now incompatible with theLIST. 
+Release 8 v3.01.02, now targets ArcMap 10.6 rather than 10.3, and has been updated to match theLIST service changes introduced on 15 Oct 2019. Previous versions are now incompatible with theLIST. 
 
-Release 9 (2021) v03.03.00 is the last compatible with ArcMap 10.6. It can be run on ArcMap 10.8. It can not be run with ArcMap beyond 10.8.
+Release 9 (2021) v3.03.00 is the last compatible with ArcMap 10.6. It can be run on ArcMap 10.8. It can not be run with ArcMap beyond 10.8.
 
-Release 9 (2021) v04.01.00 targets ArcMap 10.8 and is not backward compatible with earlier versions of ArcMap.
+Release 10 (2021) v4.01.00 targets ArcMap 10.8 and is not backward compatible with earlier versions of ArcMap.
 
 ## Development
 
