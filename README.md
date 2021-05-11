@@ -2,6 +2,7 @@
 
 This ESRI Addin toolbar, for ArcMap provides access to a variety of web based services: theLIST, Google Earth and ArcGIS Online. These services are focused on the Australian state of Tasmania. This Addin is provided by [Land Tasmania](http://dpipwe.tas.gov.au/land-tasmania).
 
+[**News**]
 **Previous versions of this software are no longer compatible with theLIST  as of 15 Oct 2019.**
 
 **Release 9 v03.03.00 is the last release compatible with ArcMap 10.6. It can be run by ArcMap 10.8 but will not run on latter versions of ArcMap**
