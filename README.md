@@ -30,7 +30,7 @@ Connect to **ArcGIS Online** public data with a single button click.
 
 ## How to get the addin
 
-* Download the [latest release](https://github.com/DPIPWE/DPIPWE_Tools_Addin/releases/latest) (targets ArcMap 10.8) or the earlier [v3.03.00](https://github.com/DPIPWE/DPIPWE_Tools_Addin/releases/tag/v3.03.00) release for ArcMap 10.6.
+* Download the [latest release](https://github.com/DPIPWE/LIST_Tools_ArcMap_Addin/releases/latest) (targets ArcMap 10.8) or the earlier [v3.03.00](https://github.com/DPIPWE/LIST_Tools_ArcMap_Addin/releases/tag/v3.03.00) release for ArcMap 10.6.
 * UnZip the archive
 
 * Place the *.esriAddin file in your preferred directory
