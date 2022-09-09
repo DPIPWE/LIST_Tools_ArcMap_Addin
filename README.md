@@ -1,13 +1,12 @@
 ## News
-* **Oct 2019. Release 7 v3.01.01.  Previous versions of this software are no longer compatible with theLIST  as of 15 Oct 2019.**
 
-* **May 2021. Release 9 v3.03.00** is the last release compatible with ArcMap 10.6. It can be run by ArcMap 10.8 but will not run on latter versions of ArcMap
+* **09 Sep 2022. Latest Release** Added an exact search. Documentation update.
 
-* **May 2021. Latest release, 10 v4.01.0** targets ArcMap 10.8. Is is not backward compatible to say ArcMap 10.6
+* **07 Mar 2022. Changed name of repository** from DPIPWE_Tools_Addin to LIST_Tools_ArcMap_Addin. Documentation, names etc changed to reflect name change.  The new name better describes the addin as it uses theLIST web services and this addin targets ArcMap. Soon to be released is a similar addin for ArcGIS pro. 
 
-* **04 March 2022. Changes to documentation** to reflect organization name change from Dpartment of Primary Industries Water Environment (DPIWE) to Natural Resources Environment Tasmania (NRE). 
+* **04 Mar 2022. Changes to documentation** to reflect organization name change from Dpartment of Primary Industries Water Environment (DPIWE) to Natural Resources Environment Tasmania (NRE). 
 
-* **07 March 2022. Changed name of repository** from DPIPWE_Tools_Addin to LIST_Tools_ArcMap_Addin. Documentation, names etx changed to reflect name change.  The new name better describes the addin as it uses theLIST web services and this addin targets ArcMap. Soon to be released is a similar addin for ArcGIS pro. 
+* **May 2021. Release 10 v4.01.0** targets ArcMap 10.8. Is is not backward compatible to say ArcMap 10.6
 
 
 # LIST_Tools_ArcMap_Addin
@@ -72,7 +71,9 @@ LIST_Tools_ArcMap_Addin is released to the wider community “as-is”. Although
 
 ## Contact
 
-**Spatial Operations**
+**Location Services**
+
+Heritage and *Land Tasmania*
 
 134 Macquarie Street
 
@@ -82,6 +83,6 @@ AUSTRALIA
 
 Phone +61 (03) 6165 3191
 
-Email mailto:gissd@dpipwe.tas.gov.au 
+Email mailto:listhelp@nre.tas.gov.au 
 
 <img src="media/Tas_Gov_logo.jpg" width="300" height="108" />
